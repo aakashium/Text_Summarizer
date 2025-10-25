@@ -1,0 +1,30 @@
+Requirement already satisfied: pydantic in c:\users\dell\anaconda3\lib\site-packages (1.10.24)
+Collecting pydantic
+  Downloading pydantic-2.12.3-py3-none-any.whl.metadata (87 kB)
+Requirement already satisfied: annotated-types>=0.6.0 in c:\users\dell\anaconda3\lib\site-packages (from pydantic) (0.6.0)
+Collecting pydantic-core==2.41.4 (from pydantic)
+  Downloading pydantic_core-2.41.4-cp313-cp313-win_amd64.whl.metadata (7.4 kB)
+Collecting typing-extensions>=4.14.1 (from pydantic)
+  Downloading typing_extensions-4.15.0-py3-none-any.whl.metadata (3.3 kB)
+Collecting typing-inspection>=0.4.2 (from pydantic)
+  Downloading typing_inspection-0.4.2-py3-none-any.whl.metadata (2.6 kB)
+Downloading pydantic-2.12.3-py3-none-any.whl (462 kB)
+Downloading pydantic_core-2.41.4-cp313-cp313-win_amd64.whl (2.0 MB)
+   ---------------------------------------- 2.0/2.0 MB 2.5 MB/s eta 0:00:00
+Downloading typing_extensions-4.15.0-py3-none-any.whl (44 kB)
+Downloading typing_inspection-0.4.2-py3-none-any.whl (14 kB)
+Installing collected packages: typing-extensions, typing-inspection, pydantic-core, pydantic
+  Attempting uninstall: typing-extensions
+    Found existing installation: typing_extensions 4.12.2
+    Uninstalling typing_extensions-4.12.2:
+      Successfully uninstalled typing_extensions-4.12.2
+  Attempting uninstall: pydantic-core
+    Found existing installation: pydantic_core 2.27.1
+    Uninstalling pydantic_core-2.27.1:
+      Successfully uninstalled pydantic_core-2.27.1
+  Attempting uninstall: pydantic
+    Found existing installation: pydantic 1.10.24
+    Uninstalling pydantic-1.10.24:
+      Successfully uninstalled pydantic-1.10.24
+
+Successfully installed pydantic-2.12.3 pydantic-core-2.41.4 typing-extensions-4.15.0 typing-inspection-0.4.2
